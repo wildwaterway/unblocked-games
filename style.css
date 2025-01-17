@@ -18,7 +18,7 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: rgba(136, 9, 49);
     background-size: cover;
-    color: #000000;
+    color: #FFFFFF;
     text-align: center;
     /*  cursor: url('/images/pointer.svg'), auto; */
   }
@@ -35,7 +35,7 @@
   
   
   header {
-    background-color: #202020;
+    background-color: #000000;
     position: fixed;
     top: 0;
     left: 50%;
