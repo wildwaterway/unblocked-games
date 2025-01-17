@@ -16,9 +16,9 @@
   
   body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: rgba(32, 32, 32);
+    background-color: rgba(136, 9, 49);
     background-size: cover;
-    color: #778899;
+    color: #000000;
     text-align: center;
     /*  cursor: url('/images/pointer.svg'), auto; */
   }
